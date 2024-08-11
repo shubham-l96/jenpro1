@@ -1,2 +1,3 @@
 # jenpro1
-It is for jenkins
+It is my first reposatory
+Auther -shubh
